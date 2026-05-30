@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GeoTracker</string>
+    <string name="provider_enabled">Provider %s is now active</string>
+    <string name="provider_disabled">Provider %s has been disabled</string>
+    <string name="provider_new_status">Provider %1$s status changed to %2$s</string>
+    <string name="new_location">Position updated — Lat: %1$s, Lon: %2$s, Alt: %3$s, Accuracy: %4$s m</string>
+    <string name="btn_view_map">View Map</string>
+    <string name="permission_denied">Location permission denied</string>
+    <string name="network_error">Network error</string>
+    <string name="location_saved">Location saved to server</string>
+</resources>
